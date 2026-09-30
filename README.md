@@ -1,9 +1,5 @@
 <div align="center">
 
-<!-- Banner goes here, e.g.
-<img width="960" height="540" alt="Peebify Tracker" src="docs/banner.png" />
--->
-
 # Peebify Tracker
 
 **Report bugs and suggest features for Peebify Launcher.**
